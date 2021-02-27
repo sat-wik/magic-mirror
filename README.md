@@ -1,45 +1,87 @@
-![MagicMirror²: The open source modular smart mirror platform. ](.github/header.png)
+# Project Title
 
-<p align="center">
-	<a href="https://david-dm.org/MichMich/MagicMirror"><img src="https://david-dm.org/MichMich/MagicMirror.svg" alt="Dependency Status"></a>
-	<a href="https://david-dm.org/MichMich/MagicMirror#info=devDependencies"><img src="https://david-dm.org/MichMich/MagicMirror/dev-status.svg" alt="devDependency Status"></a>
-	<a href="https://bestpractices.coreinfrastructure.org/projects/347"><img src="https://bestpractices.coreinfrastructure.org/projects/347/badge"></a>
-	<a href="https://choosealicense.com/licenses/mit"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-	<a href="https://travis-ci.com/MichMich/MagicMirror"><img src="https://travis-ci.com/MichMich/MagicMirror.svg" alt="Travis"></a>
-	<a href="https://snyk.io/test/github/MichMich/MagicMirror"><img src="https://snyk.io/test/github/MichMich/MagicMirror/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/MichMich/MagicMirror" style="max-width:100%;"></a>
-</p>
+One Paragraph of project description goes here
 
-**MagicMirror²** is an open source modular smart mirror platform. With a growing list of installable modules, the **MagicMirror²** allows you to convert your hallway or bathroom mirror into your personal assistant. **MagicMirror²** is built by the creator of [the original MagicMirror](https://michaelteeuw.nl/tagged/magicmirror) with the incredible help of a [growing community of contributors](https://github.com/MichMich/MagicMirror/graphs/contributors).
+## Getting Started
 
-MagicMirror² focuses on a modular plugin system and uses [Electron](https://www.electronjs.org/) as an application wrapper. So no more web server or browser installs necessary!
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-## Documentation
+### Prerequisites
 
-For the full documentation including **[installation instructions](https://docs.magicmirror.builders/getting-started/installation.html)**, please visit our dedicated documentation website: [https://docs.magicmirror.builders](https://docs.magicmirror.builders).
+What things you need to install the software and how to install them
 
-## Links
+```
+Give examples
+```
 
-- Website: [https://magicmirror.builders](https://magicmirror.builders)
-- Documentation: [https://docs.magicmirror.builders](https://docs.magicmirror.builders)
-- Forum: [https://forum.magicmirror.builders](https://forum.magicmirror.builders)
-- Discord: [https://discord.gg/J5BAtvx](https://discord.gg/J5BAtvx)
-- Blog: [https://michaelteeuw.nl/tagged/magicmirror](https://michaelteeuw.nl/tagged/magicmirror)
-- Donations: [https://magicmirror.builders/#donate](https://magicmirror.builders/#donate)
+### Installing
 
-## Contributing Guidelines
+A step by step series of examples that tell you how to get a development env running
 
-Contributions of all kinds are welcome, not only in the form of code but also with regards bug reports and documentation. For the full contribution guidelines, check out: [https://docs.magicmirror.builders/getting-started/contributing.html](https://docs.magicmirror.builders/getting-started/contributing.html)
+Say what the step will be
 
-## Enjoying MagicMirror? Consider a donation!
+```
+Give the example
+```
 
-MagicMirror² is opensource and free. That doesn't mean we don't need any money.
+And repeat
 
-Please consider a donation to help us cover the ongoing costs like webservers and email services.
-If we receive enough donations we might even be able to free up some working hours and spend some extra time improving the MagicMirror² core.
+```
+until finished
+```
 
-To donate, please follow [this](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G5D8E9MR5DTD2&source=url) link.
+End with an example of getting some data out of the system or using it for a little demo
 
-<p align="center">
-<br>
-	<a href="https://forum.magicmirror.builders/topic/728/magicmirror-is-voted-number-1-in-the-magpi-top-50"><img src="https://magicmirror.builders/img/magpi-best-watermark-custom.png" width="150" alt="MagPi Top 50"></a>
-</p>
+## Running the tests
+
+Explain how to run the automated tests for this system
+
+### Break down into end to end tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+### And coding style tests
+
+Explain what these tests test and why
+
+```
+Give an example
+```
+
+## Deployment
+
+Add additional notes about how to deploy this on a live system
+
+## Built With
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [Maven](https://maven.apache.org/) - Dependency Management
+* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+## Contributing
+
+Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Versioning
+
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+
+## Authors
+
+* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
