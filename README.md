@@ -15,12 +15,19 @@ These instructions will get you a copy of the project up and running on your loc
 6. * Start the application: npm run start
    * For Server Only use: npm run server
 
-### Prerequisites
+### Usage
 
-What things you need to install the software and how to install them
+It is important to note:
+* npm start does not work via SSH. But you can use DISPLAY=:0 nohup npm start & instead.
+* This starts the mirror on the remote display.
+* If you want to debug on Raspberry Pi you can use npm start dev which will start MM with Dev Tools enabled.
+* To access toolbar menu when in mirror mode, hit ALT key.
+* To toggle the (web) Developer Tools from mirror mode, use CTRL-SHIFT-I or ALT and select View.
+
+### Requirements
 
 ```
-Give examples
+
 ```
 
 ### Installing
