@@ -25,7 +25,7 @@ It is important to note:
 * To toggle the (web) ```Developer Tools``` from mirror mode, use ```CTRL-SHIFT-I``` or ```ALT``` and select ```View```.
 
 ### Configuration
-1. Copy ```/home/pi/MagicMirror/config/config.js.sample``` to ```/home/pi/MagicMirror/config/config.js```.
+1. Copy ```/home/pi/MagicMirror/config/config.js.sample``` to ```/home/pi/MagicMirror/config/config.js```.\
    Note: If you used the installer script this step is already done for you.
 
 2. Modify your required settings.
