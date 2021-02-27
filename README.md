@@ -1,10 +1,18 @@
-# Project Title
+# MagicMirror
 
-One Paragraph of project description goes here
+A smart mirror with Google Assistant, Spotify, Youtube, Facial Recognition, and Radio Playback
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+1. Download and install the latest Node.js version:
+    curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -sudo apt install -y nodejs
+2. Clone the repository: git clone https://github.com/sat-wik/magic-mirror
+3. Enter the repository: cd MagicMirror/
+4. Install the application: npm install
+5. Make a copy of the config sample file: cp config/config.js.sample config/config.js
+6. Start the application: npm run start
+    For Server Only use: npm run server .
 
 ### Prerequisites
 
