@@ -26,12 +26,13 @@ It is important to note:
 
 ### Configuration
 1. Copy ```/home/pi/MagicMirror/config/config.js.sample``` to ```/home/pi/MagicMirror/config/config.js```.
-Note: If you used the installer script this step is already done for you.
+   Note: If you used the installer script this step is already done for you.
 
 2. Modify your required settings.
-Note: You can check your configuration running ```npm run config:check``` in ```/home/pi/MagicMirror```.
+   Note: You can check your configuration running ```npm run config:check``` in ```/home/pi/MagicMirror```.
 
-3. For more information on configuring the screen and auto-start procedure visit: https://docs.magicmirror.builders/getting-started/configuration.html#raspberry-specific
+3. For more information on configuring the screen and auto-start procedure visit: 
+   https://docs.magicmirror.builders/getting-started/configuration.html#raspberry-specific
 
 ### Requirements
 
