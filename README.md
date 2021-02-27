@@ -42,7 +42,23 @@ It is important to note:
    
 ---
 
-### Requirements
+## Modules
+
+1. MMM-GoogleAssistant
+2. MMM-Assistant2Display
+3. MMM-Remote-Control
+4. MMM-Face-Reco-DNN
+
+### MMM-GoogleAssistant
+A module for enabling Google Assistant on this smart mirror
+
+#### Requirements
+
+* MagicMirror V2.11.0 and more
+* Raspberry pi: Raspbian Buster is needed
+* (tested on Linux Debian 10)
+
+
 
 ```
 
